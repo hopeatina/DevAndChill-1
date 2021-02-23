@@ -3,3 +3,15 @@ main {
   vertical-align: center;
   line-height: 100vh
 }
+/* @keyframes background {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+.circle {
+  background-color: red;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  animation: background 5s infinite;
+} */
+
