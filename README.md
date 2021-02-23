@@ -14,10 +14,14 @@ By default, Repl.it runs the `dev` script, but you can configure it by changing 
 yup i see yall
 This is great 
 
-Components
+Gem Dropper
+- Purpose: Recruit a gem dropper today
+
+Landing Page Components
 Header - Hope
 Hero Image/Component - Codi
 Why Component - Valerie
-Example Image
+Example Use Case - 
+Testimonials - 
 Footer - Andre
 

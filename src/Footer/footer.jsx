@@ -1,15 +1,11 @@
-import React from react;
+import React from 'react';
 
-
-
-
-const Footer () => {
-  return (
-    'hello'
-
-  )
-}
-
-
+const Footer = () => (
+    <fragment>
+      <footer>
+        Footer Bruh
+      </footer>
+    </fragment>
+)
 
 export default Footer;

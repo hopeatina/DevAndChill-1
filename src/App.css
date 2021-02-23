@@ -3,15 +3,40 @@ main {
   vertical-align: center;
   line-height: 100vh
 }
-/* @keyframes background {
-  from {background-color: red;}
-  to {background-color: yellow;}
-}
-.circle {
-  background-color: red;
-  border-radius: 50%;
-  height: 100px;
-  width: 100px;
-  animation: background 5s infinite;
-} */
 
+.landingbackground {
+  background-color: #000;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.page-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: inherit;
+}
+
+.title {
+  height: 200px;
+  width:400px;
+  background-color: #fff;
+  border-radius: 3px;
+}
+
+.header {
+  height: 50px;
+  background: blue;
+  width: 100%;
+  
+}
+
+html, body, #root {
+  height: 100%;
+  color: white;
+}

@@ -1,9 +1,12 @@
 import React from 'react'
 
 const Header = React.memo(() => {
-  <div className='header'>
-  Header Bruv
-  </div>
+   return (
+     <div className="header">
+        <div className="Logo">
+        Header Bruv
+        </div>
+      </div>);
 })
 
 export default Header;
